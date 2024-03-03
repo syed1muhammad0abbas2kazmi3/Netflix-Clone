@@ -1,0 +1,21 @@
+/* MovieDetails.css */
+.movie-details {
+    padding: 1rem;
+  }
+  
+  .movie-details__title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .movie-details__poster {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+  }
+  
+  .movie-details__overview {
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+  
